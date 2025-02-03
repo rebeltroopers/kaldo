@@ -1,4 +1,4 @@
-numpy==1.25.1
+numpy
 scipy==1.11.1
 ase==3.22.1
 sparse>=0.11.2
@@ -7,9 +7,9 @@ tensorflow>=2.13
 opt_einsum>=2.3
 scikit-learn>=1.3.0
 h5py>=3.9.0
-pandas==2.0.3
+pandas
 codecov>=2.1.7
-pytest-cov>=2.10.0
-pytest>=5.2.1
+pytest-cov
+pytest
 psutil>=5.7.2
-hiphive>=1.1
+hiphive
