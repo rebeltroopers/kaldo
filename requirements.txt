@@ -1,6 +1,6 @@
 numpy
-scipy==1.11.1
-ase==3.22.1
+scipy
+ase
 sparse>=0.11.2
 seekpath>=1.8
 tensorflow>=2.13
